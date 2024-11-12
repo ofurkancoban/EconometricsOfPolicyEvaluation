@@ -13,5 +13,4 @@ install.packages("modelsummary")
 install.packages("vtable")
 install.packages("mlogit")
 install.packages("data.table")
-
 install.packages("foreign")
